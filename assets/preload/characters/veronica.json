@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "veronica up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "veronica idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "veronica idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "veronica left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-109
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "veronica down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "veronica right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-68,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "veronica alt right"
+		},
+		{
+			"offsets": [
+				-53,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "veronica alt up"
+		},
+		{
+			"offsets": [
+				-20,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "veronica alt down"
+		},
+		{
+			"offsets": [
+				30,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "veronica alt left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"loop": false,
+			"name": "veronica alt idle"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"loop": false,
+			"name": "veronica alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/veronica",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

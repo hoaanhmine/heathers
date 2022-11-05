@@ -1,0 +1,32 @@
+{
+	"storyName": "heather, heather, & heather",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "heathers",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"candy",
+			"heathers",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

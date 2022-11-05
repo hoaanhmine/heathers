@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "heather m",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "heather m",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "heather m left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "heather m down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "heather m up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "heather m right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "walk",
+			"fps": 24,
+			"name": "heather m walk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heatherm",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
